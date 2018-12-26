@@ -1,5 +1,6 @@
-# promise-in-cpp
-This is a simple implementation of promise in c plus plus.
+# Promises-Futures-in-CPP
+
+This is a simple implementation of Promises and Futures in C++ implemented using the Active Object Concurrent Design Pattern and Object Pool Design Pattern.
 
 Useful references-
 
